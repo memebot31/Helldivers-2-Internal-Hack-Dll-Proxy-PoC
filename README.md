@@ -2,7 +2,7 @@
 
 #### This is a PoC that I created to learn about dll proxy using C++ on 64bit application / game.
 
-### Thanks to cfemen and gir489 for all information and CE Tables.
+### Thanks to cfemen and gir489 for all information and CE Tables..
 
 ## Feature List
 <details>
